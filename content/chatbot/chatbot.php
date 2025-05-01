@@ -1,4 +1,4 @@
-// This is a testcto call gpt 3.5 turbo API (not working yet)
+// This is a test to call gpt 3.5 turbo API (not working yet)
 <?php
 $apiKey = 'Ysk-proj-fTVBlIsjrmMPtO98JTkKRt5jFskB-x-54sDR4tZuHo7TwzKQGsew6c9vrtWx4iqlQvx7eqG91mT3BlbkFJs2qqDg3wdbcs1B1vIZcN1FvhI1ANjyVB8WI_zctupEGf8Rr0dEZdAsQ-RiZxwjXt63leUsqOsA';  // replace this with your actual API key
 $inputText = $_POST['message'] ?? '';
