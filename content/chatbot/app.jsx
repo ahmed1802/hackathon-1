@@ -1,3 +1,4 @@
+// This is a simple React component for a chatbot interface
 
 import { useState } from 'react';
 
